@@ -45,7 +45,7 @@ source activate furniture_llm_project
 pip install -r requirements.txt
 ```
 
-5 - For uploading the dataset to huggingface hub, we must login into it through the cli.
+5 - For uploading the dataset to huggingface hub, we must login into it through the cli. You need to register for a huggingface account followed by getting token after registration.
 
 ```bash
 huggingface-cli login
