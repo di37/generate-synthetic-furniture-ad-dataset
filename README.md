@@ -36,7 +36,7 @@ conda create -n furniture_llm_project python=3.10 -y
 3 - Activate environment.
 
 ```bash
-source activate furniture_llm_project
+conda activate furniture_llm_project
 ```
 
 4 - Install the requirements.
